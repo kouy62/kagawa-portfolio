@@ -1,0 +1,1 @@
+notebooksフォルダはColabノートやリンクの置き場。
