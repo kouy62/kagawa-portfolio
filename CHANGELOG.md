@@ -1,1 +1,4 @@
+# CHANGELOG
 
+## 2026-01-08
+- README を作成
